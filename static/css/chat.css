@@ -61,3 +61,16 @@
     margin-top: 16px;
     height: 40px;
 }
+
+@media (max-width: 576px) {
+  .messages {
+      width: 350px; /* Shrink width to 350px */
+  }
+
+  #msg_field {
+      width: 100%; /* Full width for input field */
+  }
+
+  .main {
+      margin-left: 100px; /* Remove left margin */
+  }
