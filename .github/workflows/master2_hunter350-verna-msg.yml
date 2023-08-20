@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'hunter350-verna-msg'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_578A9C35AD76405DBC28F18E5C7EDB01 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_678415F2229247BFA436F7158A49B56C }}

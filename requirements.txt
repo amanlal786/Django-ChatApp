@@ -3,3 +3,4 @@ django-rest-framework
 django-crispy-forms
 django-widget-tweaks
 crispy-bootstrap5
+crispy-bootstrap4
